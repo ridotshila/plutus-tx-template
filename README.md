@@ -151,6 +151,6 @@ To verify invariants using QuickCheck:
 
 ---
 
-*Updated by Coxygen Global - Bernard Sibanda*
+*Updated by Coxygen Global - Ridotshila Mambeda*
 *Date: 15 September 2025*
 
